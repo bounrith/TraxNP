@@ -1,2 +1,2 @@
 # TraxNP
-Tracking Non Profit in FileMaker
+Tracking Non Profit with FileMaker
